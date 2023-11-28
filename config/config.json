@@ -1,0 +1,6 @@
+{
+    "database": {
+      "connectionString": "your_database_connection_string_here"
+    }
+  }
+  
